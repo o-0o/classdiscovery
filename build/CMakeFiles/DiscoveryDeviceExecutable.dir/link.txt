@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DiscoveryDeviceExecutable.dir/src/discoverydevice_main.cpp.o CMakeFiles/DiscoveryDeviceExecutable.dir/src/discoverydeviceclass.cpp.o -o DiscoveryDeviceExecutable 

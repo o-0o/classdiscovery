@@ -1,0 +1,4 @@
+/home/oo/Documents/class/build/CMakeFiles/DiscoveryDeviceExecutable.dir
+/home/oo/Documents/class/build/CMakeFiles/DiscoveryHostExecutable.dir
+/home/oo/Documents/class/build/CMakeFiles/edit_cache.dir
+/home/oo/Documents/class/build/CMakeFiles/rebuild_cache.dir
